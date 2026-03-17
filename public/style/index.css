@@ -1,0 +1,28 @@
+@import "root.css";
+
+body header {
+    font-family: var(--primary-font-family), sans-serif;
+    font-weight: bold;
+    width: 100dvw;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+body main section article {
+    width: 100dvw;
+    height: 175dvw;
+}
+
+body main section article img {
+    width: 100dvw;
+    height: 175dvw;
+    object-fit: cover;
+    object-position: -50vw center;
+}
+
+body main section #entryArticle {
+    font-family: var(--primary-font-family), sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    /*Font-Family*/
+    --primary-font-family: Archivo;
+    --secondary-font-family: Barlow Semi Condensed;
+}
