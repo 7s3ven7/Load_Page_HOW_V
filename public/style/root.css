@@ -5,7 +5,7 @@
 }
 
 :root {
-    /*Font-Family*/
-    --primary-font-family: Archivo;
-    --secondary-font-family: Barlow Semi Condensed;
+    /* Font Family */
+    --primary-font-family: 'Archivo', sans-serif;
+    --secondary-font-family: 'Barlow Semi Condensed', sans-serif;
 }
