@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9217b99a-97ea-4a22-ad56-01583a4a2535" name="Changes" comment="salvando progresso">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HOW V.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/entryArticle1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/entryArticle1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\7s3ve\cods\Front-End\HOW V" />
       <recent name="C:\Users\7s3ve\cods\Front-End\HOW V\public\img\icon" />
       <recent name="C:\Users\7s3ve\cods\Front-End\HOW V\public\img" />
     </key>
@@ -103,7 +97,7 @@
       <workItem from="1774648538609" duration="595000" />
       <workItem from="1775075782997" duration="92000" />
       <workItem from="1776534171604" duration="2972000" />
-      <workItem from="1777071262903" duration="7755000" />
+      <workItem from="1777071262903" duration="7892000" />
     </task>
     <task id="LOCAL-00001" summary="gitingore configurado">
       <option name="closed" value="true" />
@@ -145,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777083195505</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="salvando progresso">
+      <option name="closed" value="true" />
+      <created>1777083500881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777083500881</updated>
+    </task>
+    <task id="LOCAL-00007" summary="salvando progresso">
+      <option name="closed" value="true" />
+      <created>1777083523326</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777083523326</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
